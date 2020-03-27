@@ -1,6 +1,7 @@
 #  ByteCoin
 
-This app will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
+This is a simple app that will give you the latest Bitcoin prices in all the popular, traded currencies, so you can track how well your Bitcoin investments are doing on the go.
+May or may not useful to you.
 
 <img src="Documentation/1.png" align="center" width="40%"></img>
 
